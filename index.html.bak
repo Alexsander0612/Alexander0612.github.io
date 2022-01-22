@@ -30,8 +30,8 @@
 <h2>5.</h2>
 <p>
 <img src="cat5.jpg" width="300px"><br>Котик с крылышками</p>
-<h2>6.</h2>
+<h2>6.<h2>
 <p>
-<img src="cat6.jpg" width="300px"><br>Котик-акула</p>
+<img src="cat6.jpg" width="300px">Котик-акула<br></p>
 </body>
 </html>
